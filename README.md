@@ -1,7 +1,7 @@
 ---
 title: "Mars Maze"
 link1: "https://github.com/BenGSchulz/MarsMaze"
-link2: ""
+link2: "https://bengschulz.itch.io/mars-maze"
 ---
 
 # Overview
